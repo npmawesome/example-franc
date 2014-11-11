@@ -1,0 +1,9 @@
+{
+  "name": "example-franc",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "franc": "^0.5.0"
+  }
+}
